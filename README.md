@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jander-melo-codez
+- 👋 Hi, I’m Jander Melo.
 - 👀 I’m interested in  tecnology, games and movies.
 - 🌱 I’m currently learning python programming.
 - 💞️ I'm looking to collaborate on whatever I can learn.
